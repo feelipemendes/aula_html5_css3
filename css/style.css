@@ -1,0 +1,22 @@
+body {
+    background:#2C2B2B;
+    margin-left: 100px;
+    margin-right: 200px
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1,h2,h3 {
+    font-size: 30px
+}
+
+p {
+    font-size: 18px;
+    color: white
+}
+
+img {
+    margin-bottom: 20px;
+}
